@@ -1,0 +1,2 @@
+curl -H "accept: application/json" -X POST -d '{"http://api.benzinga.com/api/v1/signal/option_activity?page=1&pagesize=5&parameters%5Bdate%5D=date_from&parameters%5Bdate_from%5D=2020-07-10&parameters%5Bdate_to%5D=2020-07-11&parameters%5Btickers%5D=AAPL&token=bbaa1551d31945c8b52ea32afc296639"}' 'https://discordapp.com/api/webhooks/732840930763210763/CjKvVWJc85ZpX0O5DoGk_HNyS2uonuim1NpnVB5vqh9DWEmGopRWChv37i7FU00ObexV
+'
